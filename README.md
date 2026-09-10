@@ -1,5 +1,7 @@
 # I've got a drinking problem
 
+A drink log for responsible drinking.
+
 Browser-only educational alcohol diary prototype. Plain JavaScript, HTML, CSS and SVG; no backend, external scripts, cookies, analytics or dependencies. Body metrics and drinks stay in localStorage on this browser and origin. Browser storage is unencrypted and may be cleared by the browser.
 
 Run locally with Node.js: `npm run dev`, then open http://127.0.0.1:4173. Run calculation tests with `npm test`.
